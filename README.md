@@ -1,1 +1,1 @@
-# redis-image
+Playing with Docker
